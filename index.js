@@ -8,7 +8,7 @@ function happyHolidaysTo(x){
 }
 
 function happyHolidayTo(x,y){
-  return `Happy ${x}, ${y}`
+  return `Happy ${x}, ${y}!`
 }
 
 function holidayCountdown(x,y){
